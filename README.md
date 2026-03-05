@@ -8,8 +8,8 @@
 * **RA:** 6326263
 * **Nome:** Vinícius Santana Barboza de Oliveira
 * **RA:** 6326075
-* **Nome:**
-* **RA:**
+* **Nome:** Ryan Tavares de Lima
+* **RA:** 6323223
 * **Curso:** Análise e Desenvolvimento de Sistemas
 
 ## Sistema Analisado
