@@ -20,6 +20,8 @@
 * **Justificativa da Escolha:**
   Escolhi analisar o sistema Steam porque é uma das maiores plataformas de distribuição digital de jogos do mundo. O sistema possui milhões de usuários e diversas funcionalidades, como compra de jogos, biblioteca digital, sistema de amigos, downloads e comunidade. Isso torna sua arquitetura interessante para estudar conceitos como escalabilidade, desempenho e disponibilidade.
 
-### Tabalho da faculdade de ADS na universidade Unifaat-Atibaia/SP
+<br><br>
 
-### Matéria - Arquitetura de Solução
+#### Tabalho da faculdade de ADS na universidade Unifaat-Atibaia/SP
+
+#### Matéria - Arquitetura de Solução
